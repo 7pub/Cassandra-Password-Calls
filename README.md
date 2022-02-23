@@ -23,7 +23,7 @@ Troja would not have fallen if Cassandra had been believed.
   <span> - </span>
   <a href="https://cali.run"><b>no Blog</b></a>
 </p>
-<p align="center"><img src="images/Sicherheit.Durch.Design.gif"></p>
+<p align="center"><img src="https://7pub.github.io/Cassandra-call/images/Sicherheit.Durch.Design.gif"></p>
 
 <!--
 | Available                            | in                                   |
