@@ -1,7 +1,3 @@
-# Cassandra-Password-Calls
-Troja would not have fallen if Cassandra had been believed.
-
-
 <!DOCTYPE html>
 
 <html lang="en">
