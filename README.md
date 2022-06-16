@@ -62,7 +62,7 @@ And with all this information **Cassandra** easily finds passwords for compromis
 
 ## Livesite
 
-<a href="[https://7pub.github.io/Cassandras-Cry/public/](https://7pub.github.io/Cassandras-Cry/public/)" target="_blank" >[Cassandra Live Site]</a>
+<a href="https://7pub.github.io/Cassandras-Cry/public/" target="_blank" >[Cassandra Live Site]</a>
 </main>
 </body>
 </html>
