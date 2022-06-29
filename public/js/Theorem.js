@@ -91,6 +91,11 @@
 					"<div class='card-footer bg-transparent border text-right'>common</div>"+
 			  	"</div>"
 			},
+			diol: {/**Hacker */
+				name: "<span class='PwdThrem-xkcd-Name'>diol</span>",
+				info: "",
+				message: "I suspect the password crackers might be on to this one by now..."
+			},
 			xkcd: {/**Hacker */
 				name: "<span class='PwdThrem-xkcd-Name'>xkcd</span>",
 				info: "",
