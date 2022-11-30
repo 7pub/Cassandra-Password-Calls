@@ -57,12 +57,12 @@ And with all this information **Cassandra** easily finds passwords for compromis
 ```html
 - Use this Code snippet to embed Cassandra fast and simple to your own Website!
 
-<iframe src="public/" style="position:fixed; top:100px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
+<iframe src="https://7pub.github.io/Password-Breach-Detection/" style="position:fixed; top:100px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"></iframe>
 ```
 
 ## Livesite
 
-<a href="https://7pub.github.io/Cassandras-Cry/public/" target="_blank" >[Cassandra Live Site]</a>
+<a href="https://7pub.github.io/Password-Breach-Detection/" target="_blank" >[Cassandra Live Site]</a>
 </main>
 </body>
 </html>
