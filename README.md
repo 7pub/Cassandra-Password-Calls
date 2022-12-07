@@ -23,9 +23,6 @@
 
 Cassandra vergleicht Ihre Eingabe in einem Atemzug mit allen bisher offengelegten Zugangsdaten aus Databreaches wie jenes von Facebook. Sie zeigt eine Warnung mit eine Benachrichtigungen über die Häufigkeit an, wenn Passwörter in einem Online-Leak gefunden werden.
 
-Wir vergleichen Ihre in Edge gespeicherten Passwörter mit einem bekannten Repository offengelegter Anmeldeinformationen und benachrichtigen Sie, wenn eine Übereinstimmung gefunden wird
-
-Wir vergleichen Ihre in Edge gespeicherten Passwörter mit einem bekannten Repository offengelegter Anmeldeinformationen und benachrichtigen Sie, wenn eine Übereinstimmung gefunden wird
 
 <!--
 | Available                            | in                                   |
