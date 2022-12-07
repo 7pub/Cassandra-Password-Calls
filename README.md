@@ -6,7 +6,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css" />
 </head>
 <body style="padding: 200px 0px px 0px">
-<h4 align="center">Prophecy of doom for Finding Passwords of Compromised Email Accounts</h4>
+<h4 align="center">Zeigen Sie Benachrichtigungen an, wenn Passwörter in einem Online-Leak gefunden werden</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/HaveIBeenPwned-v3-blue.svg?style=plastic">
   <img alt="Website" src="https://img.shields.io/website">
@@ -20,6 +20,12 @@
   <a href="https://cali.run"><b>no Blog</b></a>
 </p>
 <p align="center"><img src="https://7pub.github.io/Cassandra-call/images/Sicherheit.Durch.Design.gif"></p>
+
+Cassandra vergleicht Ihre Eingabe in einem Atemzug mit allen bisher offengelegten Zugangsdaten aus Databreaches wie jenes von Facebook. Sie zeigt eine Warnung mit eine Benachrichtigungen über die Häufigkeit an, wenn Passwörter in einem Online-Leak gefunden werden.
+
+Wir vergleichen Ihre in Edge gespeicherten Passwörter mit einem bekannten Repository offengelegter Anmeldeinformationen und benachrichtigen Sie, wenn eine Übereinstimmung gefunden wird
+
+Wir vergleichen Ihre in Edge gespeicherten Passwörter mit einem bekannten Repository offengelegter Anmeldeinformationen und benachrichtigen Sie, wenn eine Übereinstimmung gefunden wird
 
 <!--
 | Available                            | in                                   |
